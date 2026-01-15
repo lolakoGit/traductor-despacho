@@ -1,3 +1,0 @@
-streamlit
-groq
-audio-recorder-streamlit
